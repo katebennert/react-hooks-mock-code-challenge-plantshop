@@ -41,6 +41,18 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Tomatoes",
+      "image": "https://image.shutterstock.com/image-photo/tomato-isolated-tomatoes-drops-on-260nw-1932621959.jpg",
+      "price": "5.99",
+      "id": 8
+    },
+    {
+      "name": "Swiss Cheese Plant",
+      "image": "https://i5.walmartimages.com/asr/a9192e97-40c1-4514-af05-7ca0496b9362_1.0cff2fbd2913b1e855d61a93c60d5537.jpeg",
+      "price": "7.99",
+      "id": 9
     }
   ]
 }
